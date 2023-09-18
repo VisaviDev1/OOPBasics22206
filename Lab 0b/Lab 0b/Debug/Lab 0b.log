@@ -1,4 +1,5 @@
-﻿  main.cpp
-D:\DESKTOP\DOCUMENTS\Programms\С++\Лабы\Lab 0b\Lab 0b\main.cpp(108,20): warning C4018: <=: несоответствие типов со знаком и без знака
-D:\DESKTOP\DOCUMENTS\Programms\С++\Лабы\Lab 0b\Lab 0b\main.cpp(138,21): warning C4018: <: несоответствие типов со знаком и без знака
+﻿  OutputHandler.cpp
+D:\DESKTOP\DOCUMENTS\Programms\С++\Лабы\Lab 0b\Lab 0b\OutputHandler.cpp(35,21): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
   Lab 0b.vcxproj -> D:\DESKTOP\DOCUMENTS\Programms\С++\Лабы\Lab 0b\Debug\Lab 0b.exe

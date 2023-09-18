@@ -139,13 +139,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArgumentParser.cpp" />
+    <ClCompile Include="InputParser.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="OutputHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="output.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArgumentParser.h" />
+    <ClInclude Include="InputParser.h" />
+    <ClInclude Include="OutputHandler.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
